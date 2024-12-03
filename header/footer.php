@@ -9,29 +9,29 @@
                             <a class="navbar-brand logo footer-logo" href="index.html">
             <img class="img-fluid" src="images/logo-white.svg" alt="">
           </a>
-                            <p class="mt-4 mb-5">Seoland Digital Marketing Agency Template Is fully responsible, Build whatever you like with the Seoland, Seoland is the creative, modern HTML5 Template suitable for Your Business Marketing.</p>
-                            <div class="subscribe-form">
+                            <p class="mt-4 mb-5">Your go-to resource for practical self-improvement strategies to enhance mental health and well-being. We provide actionable advice, expert insights, and inspiring stories to empower you on your journey toward personal growth, resilience, and happiness. Whether you're seeking mindfulness techniques, productivity hacks, or tools to boost self-confidence, our is here to support and guide you every step of the way.</p>
+                            <!-- <div class="subscribe-form">
                                 <form id="mc-form" class="mc-form">
                                     <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="">
                                     <input class="subscribe-btn" type="submit" name="subscribe" value="Subscribe Now">
                                 </form>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="col-lg-4 col-md-5 mt-6 mt-md-0">
                             <h5>Contact Seoland</h5>
                             <ul class="media-icon list-unstyled">
                                 <li>
-                                    <i class="flaticon-gps-1"></i>
+                                    <i class="fas fa-location-arrow"></i>
                                     <h6>Visit Our Location</h6>
                                     <p class="mb-0">5th Street, 21st Floor, New York, USA </p>
                                 </li>
                                 <li>
-                                    <i class="flaticon-email"></i>
+                                    <i class="fas fa-envelope"></i>
                                     <h6>Send Us Email</h6>
                                     <a href="mailto:themeht23@gmail.com">themeht23@gmail.com</a>
                                 </li>
                                 <li>
-                                    <i class="flaticon-mobile"></i>
+                                    <i class="fas fa-phone"></i>
                                     <h6>Looking For Project</h6>
                                     <a href="tel:+912345678900">+91-234-567-8900</a>
                                 </li>
@@ -43,16 +43,10 @@
                                     <h5>Company</h5>
                                     <ul class="list-unstyled w-100">
                                         <li>
-                                            <a href="about-us.html">About Us</a>
+                                            <a href="index.php">Home</a>
                                         </li>
                                         <li>
-                                            <a href="services.html">Our Service</a>
-                                        </li>
-                                        <li>
-                                            <a href="portfolio-masonry.html">Portfolio Masonry</a>
-                                        </li>
-                                        <li>
-                                            <a href="team.html">Team Member</a>
+                                            <a href="about us.html">About Us</a>
                                         </li>
                                         <li>
                                             <a href="contact.html">Contact Us</a>
@@ -64,12 +58,6 @@
                                     <ul class="list-unstyled">
                                         <li>
                                             <a href="blog-right-sidebar.html">Blog</a>
-                                        </li>
-                                        <li>
-                                            <a href="error-404.html">Error 404</a>
-                                        </li>
-                                        <li>
-                                            <a href="faq.html">Faq</a>
                                         </li>
                                         <li>
                                             <a href="privacy-policy.html">Privacy Policy</a>
@@ -88,38 +76,9 @@
                 <div class="container">
                     <div class="copyright">
                         <div class="row align-items-center">
-                            <div class="col-md-6">Copyright 2024 Seoland Theme by <u>
-              <a href="#">ThemeHt</a>
+                            <div class="col-md-6">Copyright 2024 Selfimpro <u>
             </u> | All Rights Reserved </div>
-                            <div class="col-md-6 text-md-end mt-3 mt-md-0">
-                                <ul class="list-inline ps-0 ms-0 footer-social">
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-facebook-app-symbol"></i>
-                </a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-dribble"></i>
-                </a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-instagram"></i>
-                </a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-twitter-2"></i>
-                </a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-linkedin-1"></i>
-                </a>
-                                    </li>
-                                </ul>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>

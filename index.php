@@ -171,14 +171,16 @@
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-md-12">
-                                <img class="img-fluid" src="images/Wavy_Ppl-11_Single-01.jpg" alt="">
+                                <img class="img-fluid" src="images/Wavy_Ppl-11_Single-01.jpg" alt="" style="height: 100px;">
                             </div>
                             <div class="col-lg-6 col-md-12 mt-6 mt-lg-0 ps-lg-10">
                                 <div class="step-item style-2 left-side mb-5">
                                     <div class="step-icon">
-                                        <i class="flaticon flaticon-search-analysis"></i>
-                                        <div class="step-number">01</div>
-                                        <div class="step-icon-bg" data-bg-img="images/step-icon-bg1.png"></div>
+                                    <img class="img-fluid w-100" src="images/health_experts.svg" alt="" style="height: 100px;">
+
+
+                                    <div class="step-number">01</div>
+                                        <!-- <div class="step-icon-bg" data-bg-img="images/health_experts.svg"></div> -->
                                     </div>
                                     <div class="step-desc">
                                         <h4>Written</h4>
@@ -187,9 +189,9 @@
                                 </div>
                                 <div class="step-item style-2 left-side mb-5 step-bg">
                                     <div class="step-icon">
-                                        <i class="flaticon flaticon-target"></i>
+                                    <img class="img-fluid w-100" src="images/fact-checked.svg" alt="" style="height: 100px;">
+
                                         <div class="step-number">02</div>
-                                        <div class="step-icon-bg" data-bg-img="images/step-icon-bg1.png"></div>
                                     </div>
                                     <div class="step-desc">
                                         <h4>research</h4>
@@ -198,9 +200,9 @@
                                 </div>
                                 <div class="step-item style-2 left-side">
                                     <div class="step-icon">
-                                        <i class="flaticon flaticon-results"></i>
+                                    <img class="img-fluid w-100" src="images/medically_reviewed.svg" alt="" style="height: 100px;">
+
                                         <div class="step-number">03</div>
-                                        <div class="step-icon-bg" data-bg-img="images/step-icon-bg1.png"></div>
                                     </div>
                                     <div class="step-desc">
                                         <h4>Review</h4>
@@ -209,9 +211,10 @@
                                 </div>
                                 <div class="step-item style-2 left-side">
                                     <div class="step-icon">
-                                        <i class="flaticon flaticon-results"></i>
+                                    <img class="img-fluid w-100" src="images/update.svg" alt="" height="100px" style="height: 100px;">
+
                                         <div class="step-number">04</div>
-                                        <div class="step-icon-bg" data-bg-img="images/step-icon-bg1.png"></div>
+                                        
                                     </div>
                                     <div class="step-desc">
                                         <h4>Update</h4>

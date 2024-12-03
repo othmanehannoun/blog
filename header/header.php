@@ -58,6 +58,11 @@
     <link href="css/theme-color/color-4.css" data-style="styles" rel="stylesheet">
     <link href="css/color-customize/color-customizer.css" rel="stylesheet" type="text/css" />
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
+
     <!-- inject css end -->
 
 </head>
@@ -89,7 +94,7 @@
                         <div class="col">
                             <!-- Navbar -->
                             <nav class="navbar navbar-expand-lg">
-                                <a class="navbar-brand logo" href="index.html">
+                                <a class="navbar-brand logo" href="index.php">
               <img class="img-fluid" src="images/logo.svg" alt=""> </a>
                                 <button class="navbar-toggler ht-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <svg width="100" height="100" viewBox="0 0 100 100">
@@ -117,7 +122,7 @@
                                     </ul>
                                 </div>
                                 <div class="header-right d-flex align-items-center">
-                                    <a class="header-btn" href="contact.html">Let's Chat <i class="bi bi-arrow-right"></i>
+                                    
               </a>
                                     <a href="#" class="ht-nav-toggle">
                 <i class="bi bi-grid-fill"></i>

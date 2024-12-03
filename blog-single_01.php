@@ -234,11 +234,11 @@
                                         <ul class="list-unstyled">
                                             <li class="mb-3">
                                                 <div class="recent-post-thumb">
-                                                    <img class="img-fluid" src="images/blog/blog-thumb/01.jpg" alt="">
+                                                    <img class="img-fluid" src="images/blog/blog1.webp" alt="">
                                                 </div>
                                                 <div class="recent-post-desc">
-                                                    <a href="blog-single.html">Simple ways to Optimize Website For SEO</a>
-                                                    <div class="post-date-small">March 04, 2024 </div>
+                                                    <a href="blog-single.html">Ask Yourself These 20 Questions for the Emotional Boost We Crave This Time of Year</a>
+                                                    <!-- <div class="post-date-small">March 04, 2024 </div> -->
                                                 </div>
                                             </li>
                                             <li class="mb-3">
@@ -246,8 +246,8 @@
                                                     <img class="img-fluid" src="images/blog/blog-thumb/02.jpg" alt="">
                                                 </div>
                                                 <div class="recent-post-desc">
-                                                    <a href="blog-single.html">How Chatbots Can Help You Drive More Sales</a>
-                                                    <div class="post-date-small">March 04, 2024 </div>
+                                                    <a href="blog-single.html">5 Surprising Reasons Why Dinner Parties Can Ease Your Social Anxiety</a>
+                                                    <!-- <div class="post-date-small">March 04, 2024 </div> -->
                                                 </div>
                                             </li>
                                             <li>
@@ -255,8 +255,8 @@
                                                     <img class="img-fluid" src="images/blog/blog-thumb/03.jpg" alt="">
                                                 </div>
                                                 <div class="recent-post-desc">
-                                                    <a href="blog-single.html">Leveraging Feedback on Insights best SEO</a>
-                                                    <div class="post-date-small">March 04, 2024 </div>
+                                                    <a href="blog-single.html">Need Support During the Holidays? Look No Further Than These Online Therapy Companies</a>
+                                                    <!-- <div class="post-date-small">March 04, 2024 </div> -->
                                                 </div>
                                             </li>
                                         </ul>
@@ -266,23 +266,11 @@
                                     <h5 class="widget-title">Categories</h5>
                                     <ul class="widget-categories list-unstyled">
                                         <li>
-                                            <a href="#">SEO Analysis <span>(3)</span>
+                                            <a href="#">Self-Improvement <span>(2)</span>
                 </a>
                                         </li>
                                         <li>
-                                            <a href="#">Online Marketing <span>(5)</span>
-                </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Marketing Agency <span>(4)</span>
-                </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">SEO Marketing <span>(6)</span>
-                </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Digital Agency <span>(2)</span>
+                                            <a href="#">Online Therapy<span>(1)</span>
                 </a>
                                         </li>
                                     </ul>
@@ -291,29 +279,18 @@
                                     <h5 class="widget-title">Popular Tags</h5>
                                     <ul class="widget-tags list-inline">
                                         <li>
-                                            <a href="#">SEO</a>
+                                            <a href="#">Self-help</a>
                                         </li>
                                         <li>
-                                            <a href="#">Agency</a>
+                                            <a href="#">Mantle</a>
                                         </li>
                                         <li>
-                                            <a href="#">Marketing</a>
+                                            <a href="#">Health</a>
                                         </li>
                                         <li>
-                                            <a href="#">Business</a>
+                                            <a href="#">improve</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Digital</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Bootstrap</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Startup</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Technology</a>
-                                        </li>
+                                       
                                     </ul>
                                 </div>
                             </div>
