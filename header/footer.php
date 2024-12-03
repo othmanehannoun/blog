@@ -7,7 +7,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-7 pe-lg-8">
                             <a class="navbar-brand logo footer-logo" href="index.html">
-            <img class="img-fluid" src="images/logo-white.svg" alt="">
+            <img class="img-fluid" src="images/logo_white.png" alt="">
           </a>
                             <p class="mt-4 mb-5">Your go-to resource for practical self-improvement strategies to enhance mental health and well-being. We provide actionable advice, expert insights, and inspiring stories to empower you on your journey toward personal growth, resilience, and happiness. Whether you're seeking mindfulness techniques, productivity hacks, or tools to boost self-confidence, our is here to support and guide you every step of the way.</p>
                             <!-- <div class="subscribe-form">

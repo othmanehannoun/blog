@@ -95,7 +95,7 @@
                             <!-- Navbar -->
                             <nav class="navbar navbar-expand-lg">
                                 <a class="navbar-brand logo" href="index.php">
-              <img class="img-fluid" src="images/logo.svg" alt=""> </a>
+              <img class="img-fluid" src="images/logo.png" alt=""> </a>
                                 <button class="navbar-toggler ht-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <svg width="100" height="100" viewBox="0 0 100 100">
                 <path class="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058"></path>
@@ -111,13 +111,13 @@
                                             <a class="nav-link" href="index.php">Home</a>
                                         </li>
                                         <li class="nav-item dropdown">
-                                            <a class="nav-link" href="index.php">About US </a>
+                                            <a class="nav-link" href="articles.php">Blogs </a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link" href="about us.html">About US </a>
                                         </li>
                                         <li class="nav-item dropdown">
                                             <a class="nav-link" href="contact.php">Contact US</a>
-                                        </li>
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link" href="index.php">Home</a>
                                         </li>
                                     </ul>
                                 </div>

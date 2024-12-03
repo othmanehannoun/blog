@@ -171,7 +171,7 @@
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-md-12">
-                                <img class="img-fluid" src="images/Wavy_Ppl-11_Single-01.jpg" alt="" style="height: 100px;">
+                                <img class="img-fluid" src="images/Wavy_Ppl-11_Single-01.jpg" alt="">
                             </div>
                             <div class="col-lg-6 col-md-12 mt-6 mt-lg-0 ps-lg-10">
                                 <div class="step-item style-2 left-side mb-5">
