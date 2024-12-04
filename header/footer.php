@@ -26,16 +26,16 @@
                                     <span>contact@selfimpro.com</span>
                                 </li>
                                 <li>
-                                    <i class="flaticon-mobile"></i>
+                                    <i class="fas fa-mobile"></i>
                                     <h6>Phone</h6>
-                                    <span>+91-234-567-8900</span>
+                                    <span>+1 (215) 240-9264 </span>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-lg-4 col-md-8 mt-6 mt-lg-0">
                             <div class="row">
                                 <div class="col-md-6 footer-menu">
-                                    <h5>Company</h5>
+                                    <h5>Menu</h5>
                                     <ul class="list-unstyled w-100">
                                         <li>
                                             <a href="index.php">Home</a>

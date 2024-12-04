@@ -111,13 +111,13 @@
                                             <a class="nav-link" href="index.php">Home</a>
                                         </li>
                                         <li class="nav-item dropdown">
-                                            <a class="nav-link" href="articles.php">Aricles </a>
+                                            <a class="nav-link" href="articles.php">Articles </a>
                                         </li>
                                         <li class="nav-item dropdown">
-                                            <a class="nav-link" href="about-us.php">About US </a>
+                                            <a class="nav-link" href="about-us.php">About us </a>
                                         </li>
                                         <li class="nav-item dropdown">
-                                            <a class="nav-link" href="contact.php">Contact US</a>
+                                            <a class="nav-link" href="contact.php">Contact us</a>
                                         </li>
                                         
                                     </ul>

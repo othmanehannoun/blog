@@ -77,7 +77,7 @@
                         </h4>
                         <p class="lead mb-5 animate__animated animate__zoomIn animate__slow">Your go-to resource for practical self-improvement strategies to enhance mental health and well-being. We provide actionable advice, expert insights, and inspiring stories to empower you on your journey toward personal growth, resilience, and happiness. Whether you're seeking mindfulness techniques, productivity hacks, or tools to boost self-confidence, our is here to support and guide you every step of the way.</p>
                         <div class="d-sm-flex align-items-center animate__animated animate__fadeInUp animate__slow">
-                            <a class="themeht-btn primary-btn" href="#">
+                            <a class="themeht-btn primary-btn" href="about-us.php">
             <span>Read more with us</span>
             <i class="bi bi-arrow-right"></i>
           </a>
