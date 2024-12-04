@@ -5,13 +5,13 @@
 
     <!-- meta tags -->
     <meta charset="utf-8">
-    <meta name="keywords" content="bootstrap 5, premium, multipurpose, sass, agency, seo, marketing, business, digital, rtl" />
+    <meta name="keywords" content="association ,help, advices,self improvement" />
     <meta name="description" content="HTML5 Template" />
     <meta name="author" content="www.themeht.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Title -->
-    <title>SelfInfo - Digital Marketing Agency HTML5 Template</title>
+    <title>SelfInfo - we can help you</title>
 
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.ico" />

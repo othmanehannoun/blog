@@ -72,7 +72,7 @@
                         <nav aria-label="breadcrumb" class="page-breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item">
-                                    <a href="index.html">
+                                    <a href="index.php">
                 <i class="bi bi-house-door me-1"></i>Home</a>
                                 </li>
                                 <li class="breadcrumb-item">
@@ -123,14 +123,14 @@
                                 </div>
                                 <div class="post-image">
                                     <img class="img-fluid w-100" src="images/blog/blog1.webp" alt="">
-                                    <a class="post-btn" href="blog-single_01.html">
+                                    <a class="post-btn" href="blog-single_01.php">
                                         <i class="bi bi-arrow-down-right"></i>
                                     </a>
                                 </div>
                                 <div class="post-desc">
                                     <div class="post-title">
                                         <h4>
-                                            <a href="blog-single_01.html">Ask Yourself These 20 Questions for the Emotional Boost We Crave This Time of Year</a>
+                                            <a href="blog-single_01.php">Ask Yourself These 20 Questions for the Emotional Boost We Crave This Time of Year</a>
                                         </h4>
                                     </div>
                                     <p>We all have those days when life feels like a raging dumpster fire. When everything feels out of control....</p>
@@ -149,14 +149,14 @@
                                 </div>
                                 <div class="post-image">
                                     <img class="img-fluid w-100" src="images/blog/blog2.webp" alt="">
-                                    <a class="post-btn" href="blog-single_02.html">
+                                    <a class="post-btn" href="blog-single_02.php">
                                         <i class="bi bi-arrow-down-right"></i>
                                     </a>
                                 </div>
                                 <div class="post-desc">
                                     <div class="post-title">
                                         <h4>
-                                            <a href="blog-single_02.html">5 Surprising Reasons Why Dinner Parties Can Ease Your Social Anxiety</a>
+                                            <a href="blog-single_02.php">5 Surprising Reasons Why Dinner Parties Can Ease Your Social Anxiety</a>
                                         </h4>
                                     </div>
                                     <p>For anyone with even a little bit of social anxiety, November and December can be daunting months. 'Tis the season for holiday parties, a winter Christmas....</p>
@@ -175,20 +175,72 @@
                                 </div>
                                 <div class="post-image">
                                     <img class="img-fluid w-100" src="images/blog/blog3.webp" alt="">
-                                    <a class="post-btn" href="blog-single_03.html">
-              <i class="bi bi-arrow-down-right"></i>
-            </a>
+                                    <a class="post-btn" href="blog-single_03.php">
+                                    <i class="bi bi-arrow-down-right"></i>
+                                    </a>
                                 </div>
                                 <div class="post-desc">
                                     <div class="post-title">
                                         <h4>
-                                            <a href="blog-single_03.html">Need Support During the Holidays? Look No Further Than These Online Therapy Companies</a>
+                                            <a href="blog-single_03.php">Need Support During the Holidays? Look No Further Than These Online Therapy Companies</a>
                                         </h4>
                                     </div>
                                     <p>The holidays can be stressful for anyone—but what happens when that stress becomes overwhelming? 
 
                                         Maybe your anxiety hits....</p>
                                     <div class="post-date"> 04 Mar, 2024 </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
+                            <div class="post-card">
+                                <div class="post-meta">
+                                    <ul class="list-inline">
+                                        <li>
+                                            <i class="bi bi-person"></i> tips-Improvement
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="post-image">
+                                    <img class="img-fluid w-100" src="images/blog/blog4.jpg" alt="">
+                                    <a class="post-btn" href="blog-single_04.php">
+                                        <i class="bi bi-arrow-down-right"></i>
+                                    </a>
+                                </div>
+                                <div class="post-desc">
+                                    <div class="post-title">
+                                        <h4>
+                                            <a href="blog-single_04.php">10 Tips To Improve Your Design Skills</a>
+                                        </h4>
+                                    </div>
+                                    <p>Graphic designers around the globe come from different walks of life. Some discover this passion quite....</p>
+                                    <div class="post-date"> 04 December, 2024 </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
+                            <div class="post-card">
+                                <div class="post-meta">
+                                    <ul class="list-inline">
+                                        <li>
+                                            <i class="bi bi-person"></i> tips-Improvement
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="post-image">
+                                    <img class="img-fluid w-100" src="images/blog/blog5.jpg" alt="">
+                                    <a class="post-btn" href="blog-single_05.php">
+                                        <i class="bi bi-arrow-down-right"></i>
+                                    </a>
+                                </div>
+                                <div class="post-desc">
+                                    <div class="post-title">
+                                        <h4>
+                                            <a href="blog-single_05.php">7 Self Development Tips to Improve Business Success</a>
+                                        </h4>
+                                    </div>
+                                    <p>Experienced entrepreneurs understand that running their business is not a....</p>
+                                    <div class="post-date"> 05 December, 2024 </div>
                                 </div>
                             </div>
                         </div>
