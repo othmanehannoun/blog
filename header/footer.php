@@ -9,16 +9,11 @@
                             <a class="navbar-brand logo footer-logo" href="index.html">
             <img class="img-fluid" src="images/logo-white.svg" alt="">
           </a>
-                            <p class="mt-4 mb-5">Seoland Digital Marketing Agency Template Is fully responsible, Build whatever you like with the Seoland, Seoland is the creative, modern HTML5 Template suitable for Your Business Marketing.</p>
-                            <div class="subscribe-form">
-                                <form id="mc-form" class="mc-form">
-                                    <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="">
-                                    <input class="subscribe-btn" type="submit" name="subscribe" value="Subscribe Now">
-                                </form>
-                            </div>
+                            <p class="mt-4 mb-5">SelfImpro Digital Marketing Agency Template Is fully responsible, Build whatever you like with the Seoland, Seoland is the creative, modern HTML5 Template suitable for Your Business Marketing.</p>
+                    
                         </div>
                         <div class="col-lg-4 col-md-5 mt-6 mt-md-0">
-                            <h5>Contact Seoland</h5>
+                            <h5>Contact</h5>
                             <ul class="media-icon list-unstyled">
                                 <li>
                                     <i class="flaticon-gps-1"></i>
@@ -28,11 +23,11 @@
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <h6>Send Us Email</h6>
-                                    <a href="mailto:themeht23@gmail.com">themeht23@gmail.com</a>
+                                    <a href="mailto:themeht23@gmail.com">contact@selfimpro.com</a>
                                 </li>
                                 <li>
                                     <i class="flaticon-mobile"></i>
-                                    <h6>Looking For Project</h6>
+                                    <h6>Phone</h6>
                                     <a href="tel:+912345678900">+91-234-567-8900</a>
                                 </li>
                             </ul>
@@ -59,26 +54,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="col-md-6 mt-5 mt-md-0 footer-menu">
-                                    <h5>Sales Info</h5>
-                                    <ul class="list-unstyled">
-                                        <li>
-                                            <a href="blog-right-sidebar.html">Blog</a>
-                                        </li>
-                                        <li>
-                                            <a href="error-404.html">Error 404</a>
-                                        </li>
-                                        <li>
-                                            <a href="faq.html">Faq</a>
-                                        </li>
-                                        <li>
-                                            <a href="privacy-policy.html">Privacy Policy</a>
-                                        </li>
-                                        <li>
-                                            <a href="terms-and-conditions.html">Terms</a>
-                                        </li>
-                                    </ul>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -88,38 +64,9 @@
                 <div class="container">
                     <div class="copyright">
                         <div class="row align-items-center">
-                            <div class="col-md-6">Copyright 2024 Seoland Theme by <u>
-              <a href="#">ThemeHt</a>
+                            <div class="col-md-12 text-center">Copyright 2024 SelfImpro 
             </u> | All Rights Reserved </div>
-                            <div class="col-md-6 text-md-end mt-3 mt-md-0">
-                                <ul class="list-inline ps-0 ms-0 footer-social">
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-facebook-app-symbol"></i>
-                </a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-dribble"></i>
-                </a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-instagram"></i>
-                </a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-twitter-2"></i>
-                </a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">
-                  <i class="flaticon-linkedin-1"></i>
-                </a>
-                                    </li>
-                                </ul>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -137,25 +84,7 @@
 
     <!--color-customizer start-->
 
-    <div class="color-customizer closed">
-        <a class="opener" href="#"> <i class="bi bi-palette"></i></a>
-        <div class="clearfix color-chooser text-center">
-            <h4 class="mb-4">Seoland With Awesome Colors</h4>
-            <ul class="colorChange clearfix">
-                <li class="theme-default" title="theme-default" data-style="color-1"></li>
-                <li class="theme-2" title="theme-2" data-style="color-2"></li>
-                <li class="theme-3" title="theme-3" data-style="color-3"></li>
-                <li class="theme-4 selected" title="theme-4" data-style="color-4"></li>
-                <li class="theme-5" title="theme-5" data-style="color-5"></li>
-                <li class="theme-6" title="theme-6" data-style="color-6"></li>
-                <li class="theme-7" title="theme-7" data-style="color-7"></li>
-                <li class="theme-8" title="theme-8" data-style="color-8"></li>
-                <li class="theme-9" title="theme-9" data-style="color-9"></li>
-                <li class="theme-10" title="theme-10" data-style="color-10"></li>
-                <li class="theme-11" title="theme-11" data-style="color-11"></li>
-            </ul>
-        </div>
-    </div>
+
 
     <!--color-customizer end-->
 

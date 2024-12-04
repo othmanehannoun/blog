@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Title -->
-    <title>Seoland - Digital Marketing Agency HTML5 Template</title>
+    <title>SelfInfo - Digital Marketing Agency HTML5 Template</title>
 
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.ico" />
@@ -106,23 +106,18 @@
                                             <a class="nav-link" href="index.php">Home</a>
                                         </li>
                                         <li class="nav-item dropdown">
-                                            <a class="nav-link" href="index.php">About US </a>
+                                            <a class="nav-link" href="articles.php">Aricles </a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link" href="about-us.php">About US </a>
                                         </li>
                                         <li class="nav-item dropdown">
                                             <a class="nav-link" href="contact.php">Contact US</a>
                                         </li>
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link" href="index.php">Home</a>
-                                        </li>
+                                        
                                     </ul>
                                 </div>
-                                <div class="header-right d-flex align-items-center">
-                                    <a class="header-btn" href="contact.html">Let's Chat <i class="bi bi-arrow-right"></i>
-              </a>
-                                    <a href="#" class="ht-nav-toggle">
-                <i class="bi bi-grid-fill"></i>
-              </a>
-                                </div>
+                        
                             </nav>
                         </div>
                     </div>
