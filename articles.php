@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php include "./header/header.php" ?>
                             <!-- Navbar -->
                             <nav class="navbar navbar-expand-lg">
@@ -166,6 +167,9 @@
                 </div>
             </div>
         </header>
+=======
+<?php include "./header/header.php"?>
+>>>>>>> bcc4565943557d9b3205fd4662ac330c503e9e5d
 
         <nav id="ht-main-nav">
             <a href="#" class="ht-nav-toggle">
@@ -370,6 +374,7 @@
         <!--body content end-->
 
 
+<<<<<<< HEAD
         <!--footer start-->
 
         <footer class="footer">
@@ -577,3 +582,6 @@
 </body>
 
 </html>
+=======
+        <<?php include "./header/footer.php"?>
+>>>>>>> bcc4565943557d9b3205fd4662ac330c503e9e5d
