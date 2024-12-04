@@ -9,7 +9,7 @@
                             <a class="navbar-brand logo footer-logo" href="index.html">
             <img class="img-fluid" src="images/logo_white.png" alt="">
           </a>
-                            <p class="mt-4 mb-5">SelfImpro Digital Marketing Agency Template Is fully responsible, Build whatever you like with the Seoland, Seoland is the creative, modern HTML5 Template suitable for Your Business Marketing.</p>
+                            <p class="mt-4 mb-5">Welcome to Selfimpro – your partner in growth and self-improvement! Our mission is to inspire and empower individuals to unlock their full potential by focusing on personal development and skill enhancement. Life is a continuous journey of learning, and we believe that with the right tools.</p>
                     
                         </div>
                         <div class="col-lg-4 col-md-5 mt-6 mt-md-0">
@@ -28,7 +28,7 @@
                                 <li>
                                     <i class="flaticon-mobile"></i>
                                     <h6>Phone</h6>
-                                    <a href="tel:+912345678900">+91-234-567-8900</a>
+                                    <span>+91-234-567-8900</span>
                                 </li>
                             </ul>
                         </div>
@@ -41,10 +41,10 @@
                                             <a href="index.php">Home</a>
                                         </li>
                                         <li>
-                                            <a href="about us.html">About Us</a>
+                                            <a href="about-us.php">About Us</a>
                                         </li>
                                         <li>
-                                            <a href="contact.html">Contact Us</a>
+                                            <a href="contact.php">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
