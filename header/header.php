@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Title -->
-    <title>SelfInfo - we can help you</title>
+    <title>SelfInfo -we can help you</title>
 
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.ico" />
