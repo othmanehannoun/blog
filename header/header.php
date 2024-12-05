@@ -9,7 +9,7 @@
     <meta name="description" content="HTML5 Template" />
     <meta name="author" content="www.themeht.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="google-site-verification" content="71i2tzAKYvoe5tN8FZ116Oy83MHWmEJQU_Z7rfyPcSs" />
     <!-- Title -->
     <title>SelfInfo -we can help you</title>
 
