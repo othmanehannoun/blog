@@ -197,7 +197,7 @@
                                     <h5 class="widget-title">Categories</h5>
                                     <ul class="widget-categories list-unstyled">
                                         <li>
-                                            <a href="#">Self-Improvement <span>(2)</span>
+                                            <a href="#">Self-Improvement <span>(3)</span>
                 </a>
                                         </li>
                                         <li>

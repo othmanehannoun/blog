@@ -46,13 +46,13 @@
     <link href="css/base.css" rel="stylesheet" type="text/css" />
 
     <!--== shortcodes -->
-    <link href="css/shortcodes.css" rel="stylesheet" type="text/css" />
+    <link href="css/shortcodes.css?v=<?php echo time(); ?>" rel="stylesheet" type="text/css" />
 
     <!--== default-theme -->
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=<?php echo time(); ?>" rel="stylesheet" type="text/css" />
 
     <!--== responsive -->
-    <link href="css/responsive.css" rel="stylesheet" type="text/css" />
+    <link href="css/responsive.css?v=<?php echo time(); ?>" rel="stylesheet" type="text/css" />
 
     <!--== color-customizer -->
     <link href="css/theme-color/color-4.css" data-style="styles" rel="stylesheet">

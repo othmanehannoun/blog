@@ -107,17 +107,17 @@
                                     </div> -->
                                     <ul class="list-unstyled list-icon style-2">
                                         <li>
-                                            <i class="flaticon flaticon-check-mark"></i> <p><span style="font-weight: 600;">Boosts mood: </span> Focusing on the positive things in your life can instantly lift your spirits and make you feel happier.</p>
+                                            <i class="far fa-check-circle"></i> <p><span style="font-weight: 600;">Boosts mood: </span> Focusing on the positive things in your life can instantly lift your spirits and make you feel happier.</p>
                                         </li>
                                         <li>
-                                            <i class="flaticon flaticon-check-mark"></i> <p><span style="font-weight: 600;">relationships:</span> Showing people that you’re grateful for them makes them feel valued and appreciated, strengthening your bonds with them.</p>
+                                            <i class="far fa-check-circle"></i> <p><span style="font-weight: 600;">relationships:</span> Showing people that you’re grateful for them makes them feel valued and appreciated, strengthening your bonds with them.</p>
 
                                         </li>
                                         <li>
-                                            <i class="flaticon flaticon-check-mark"></i> <span style="font-weight: 600;"><p>Increases positivity:</span> It trains your mind to notice the good, which can create a ripple effect of happiness and positivity.</p>
+                                            <i class="far fa-check-circle"></i> <span style="font-weight: 600;"><p>Increases positivity:</span> It trains your mind to notice the good, which can create a ripple effect of happiness and positivity.</p>
                                         </li>
                                         <li>
-                                            <i class="flaticon flaticon-check-mark"></i> <span style="font-weight: 600;"><p>Increases positivity:</span> It trains your mind to notice the good, which can create a ripple effect of happiness and positivity.</p>
+                                            <i class="far fa-check-circle"></i> <span style="font-weight: 600;"><p>Increases positivity:</span> It trains your mind to notice the good, which can create a ripple effect of happiness and positivity.</p>
                                         </li>
                                     </ul>
                                     <p class="mb-0">In fact, there have been several studies highlighting the impact of gratitude on our mental health, physical health, and well-being,2 says Elizabeth Hughes, LPCC, a therapist at ADHDAdvisor. Research shows us that gratitude and life satisfaction are closely linked—they both grow together and feed into each other.</p> <br></br>
@@ -213,7 +213,7 @@
                                     <h5 class="widget-title">Categories</h5>
                                     <ul class="widget-categories list-unstyled">
                                         <li>
-                                            <a href="#">Self-Improvement <span>(2)</span>
+                                            <a href="#">Self-Improvement <span>(3)</span>
                 </a>
                                         </li>
                                         <li>

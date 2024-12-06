@@ -81,7 +81,7 @@
                                         </h4>
                                     </div>
                                     <p>We all have those days when life feels like a raging dumpster fire. When everything feels out of control....</p>
-                                    <div class="post-date"> 04 Mar, 2024 </div>
+                                    <div class="post-date"> 02 Mar, 2024 </div>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                                         </h4>
                                     </div>
                                     <p>For anyone with even a little bit of social anxiety, November and December can be daunting months. 'Tis the season for holiday parties, a winter Christmas....</p>
-                                    <div class="post-date"> 04 Mar, 2024 </div>
+                                    <div class="post-date"> 03 Mar, 2024 </div>
                                 </div>
                             </div>
                         </div>
@@ -203,17 +203,17 @@
                                 </div>
                                 <div class="post-image">
                                     <img class="img-fluid w-100" src="images/blog/blog6.webp" alt="">
-                                    <a class="post-btn" href="blog-single_06.php">
+                                    <a class="post-btn" href="growth_mindset.php">
                                         <i class="bi bi-arrow-down-right"></i>
                                     </a>
                                 </div>
                                 <div class="post-desc">
                                     <div class="post-title">
                                         <h4>
-                                            <a href="blog-single_06.php">Personality and personal growth</a>
+                                            <a href="growth_mindset.php">What Is A Growth Mindset And How To Develop It In 9 Steps</a>
                                         </h4>
                                     </div>
-                                    <p>Perhaps the most important realization that an individual can make in....</p>
+                                    <p>The world can be a competitive place. To keep up, it’s not....</p>
                                     <div class="post-date"> 12 December, 2024 </div>
                                 </div>
                             </div>
