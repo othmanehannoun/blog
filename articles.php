@@ -2,60 +2,7 @@
 
 
 <?php include "./header/header.php" ?>
-        <nav id="ht-main-nav">
-            <a href="#" class="ht-nav-toggle">
-    <i class="bi bi-x-lg"></i>
-  </a>
-            <a class="navbar-brand logo" href="index.php">
-    <img class="img-fluid" src="images/logo.svg" alt=""> </a>
-            <p class="mt-3">Seoland Digital Marketing Agency Template Is fully responsible, Build whatever you like with the Seoland, Seoland is the creative, modern HTML5 Template suitable for Your Business Marketing.</p>
-            <div class="form-info">
-                <h4 class="mb-4">Contact Info</h4>
-                <div class="contact-link">
-                    <ul class="contact-info list-unstyled">
-                        <li>
-                            <i class="flaticon flaticon-gps-1"></i>
-                            <span>Address:</span>
-                            <p>5th Street, 21st Floor, New York, USA</p>
-                        </li>
-                        <li>
-                            <i class="flaticon flaticon-email"></i>
-                            <span>Email:</span>
-                            <a href="mailto:themeht23@gmail.com">themeht23@gmail.com</a>
-                        </li>
-                        <li>
-                            <i class="flaticon flaticon-mobile"></i>
-                            <span>Phone:</span>
-                            <a href="tel:+91-234-567-8900">+91-234-567-8900</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="social-icons mt-5">
-                <ul class="list-inline">
-                    <li>
-                        <a href="#">
-          <i class="flaticon-facebook-app-symbol"></i>
-        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-          <i class="flaticon-twitter-2"></i>
-        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-          <i class="flaticon-instagram"></i>
-        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-          <i class="flaticon-linkedin-1"></i>
-        </a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
+       
 
         <!--header end-->
 
@@ -241,6 +188,33 @@
                                     </div>
                                     <p>Experienced entrepreneurs understand that running their business is not a....</p>
                                     <div class="post-date"> 05 December, 2024 </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
+                            <div class="post-card">
+                                <div class="post-meta">
+                                    <ul class="list-inline">
+                                        <li>
+                                            <i class="bi bi-person"></i> self-improvement
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="post-image">
+                                    <img class="img-fluid w-100" src="images/blog/blog6.webp" alt="">
+                                    <a class="post-btn" href="blog-single_06.php">
+                                        <i class="bi bi-arrow-down-right"></i>
+                                    </a>
+                                </div>
+                                <div class="post-desc">
+                                    <div class="post-title">
+                                        <h4>
+                                            <a href="blog-single_06.php">Personality and personal growth</a>
+                                        </h4>
+                                    </div>
+                                    <p>Perhaps the most important realization that an individual can make in....</p>
+                                    <div class="post-date"> 12 December, 2024 </div>
                                 </div>
                             </div>
                         </div>
