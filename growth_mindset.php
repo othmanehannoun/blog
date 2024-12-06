@@ -157,7 +157,7 @@
                                     <p class="mb-0"><strong>With the power of a growth mindset, you’re equipped to take on the world like never before.</strong></p>
 
                                     <br></br>
-                                    <h5><em>Remember, You’re On The Path To Growth.</h5>
+                                    <h5>Remember, You’re On The Path To Growth.</h5>
 
                                     <ul class="list-unstyled list-icon style-2">
                                         <li>
